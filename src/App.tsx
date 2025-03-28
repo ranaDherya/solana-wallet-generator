@@ -46,11 +46,8 @@ function App() {
   return (
     <>
       <div className="header-section">
-        <h1>Monkey Wallet</h1>
-        <p>
-          Monkey Wallet is the easiest way to manage your cryptocurrency
-          securely and efficiently.
-        </p>
+        <h1>Solana Wallets Generator</h1>
+        <p>Best solana wallet generator out there. (Source: trust me bro!!!)</p>
       </div>
       <div className="body-section">
         Create your solana wallet:{" "}
